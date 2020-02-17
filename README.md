@@ -1,7 +1,6 @@
 # Praktikum-ALPRO-1
 https://github.com/BintangDiLangit/Praktikum-ALPRO-1/
-jangan sekedar copy paste, 
-ketik Ulang!!!
+jangan sekedar copy paste!!!
 
 
-==========Belajar sama-sama menggunakan java==========
+==========Semua Butuh Proses==========
